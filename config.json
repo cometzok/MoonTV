@@ -1,3 +1,4 @@
+
 {
   "cache_time": 7200,
   "api_site": {
@@ -88,6 +89,10 @@
     "maotai": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "name": "茅台资源"
-    }
+      },
+    "xiaomaomi": {
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
+      "name": "快车资源"
+     }
   }
 }
